@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/SyafaatAkbar123.github.io/static/js/main.5ae9a789.chunk.js",
+    "main.js.map": "/SyafaatAkbar123.github.io/static/js/main.5ae9a789.chunk.js.map",
+    "runtime-main.js": "/SyafaatAkbar123.github.io/static/js/runtime-main.7a22ffd4.js",
+    "runtime-main.js.map": "/SyafaatAkbar123.github.io/static/js/runtime-main.7a22ffd4.js.map",
+    "static/js/2.6e4308dd.chunk.js": "/SyafaatAkbar123.github.io/static/js/2.6e4308dd.chunk.js",
+    "static/js/2.6e4308dd.chunk.js.map": "/SyafaatAkbar123.github.io/static/js/2.6e4308dd.chunk.js.map",
+    "index.html": "/SyafaatAkbar123.github.io/index.html",
+    "static/js/2.6e4308dd.chunk.js.LICENSE.txt": "/SyafaatAkbar123.github.io/static/js/2.6e4308dd.chunk.js.LICENSE.txt",
+    "static/media/aquaku.png": "/SyafaatAkbar123.github.io/static/media/aquaku.4ea751ab.png",
+    "static/media/mepan.png": "/SyafaatAkbar123.github.io/static/media/mepan.bca18bf9.png",
+    "static/media/one.svg": "/SyafaatAkbar123.github.io/static/media/one.374c2a86.svg",
+    "static/media/prof.svg": "/SyafaatAkbar123.github.io/static/media/prof.e152cded.svg",
+    "static/media/ufy.png": "/SyafaatAkbar123.github.io/static/media/ufy.05a4dea8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a22ffd4.js",
+    "static/js/2.6e4308dd.chunk.js",
+    "static/js/main.5ae9a789.chunk.js"
+  ]
+}
